@@ -2,7 +2,7 @@
 
 【まず準備すること】
 1. git init リポジトリ名
-2. git remote add リモートリポジトリ名 リポジトリ名
+2. git remote add リモートリポジトリ名 リポジトリ名(https://xxxx形式)
 
 【commit & push のやり方】
 1. git add -u ※フォルダごとの場合は、git add . 
