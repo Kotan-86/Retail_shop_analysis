@@ -1,9 +1,9 @@
 自分用にメモ
 
 【まず準備すること】
-1. git init リポジトリ名
-2. git remote add リモートリポジトリ名 リポジトリ名
-
+1. git init リポジトリ名 ※ローカルリポジトリ作成
+2. git remote add リモートリポジトリ名 リポジトリ名 ※リモートリポジトリ作成
+　
 【commit & push のやり方】
 1. git add ファイル名.拡張子 ※フォルダごとの場合は、git add .
 2. git commit -m "変更の内容"
